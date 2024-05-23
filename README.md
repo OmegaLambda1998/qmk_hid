@@ -1,3 +1,11 @@
+Fork of https://github.com/FrameworkComputer/qmk_hid containing quality of life changes for my own personal system
+
+# Changes from Upstream:
+
+
+
+# Original Readme
+
 # QMK HID
 
 Commandline tool to interact with QMK devices via their raw HID interface.
